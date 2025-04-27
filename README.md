@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pedrin031/Ale-huub/refs/heads/main/README.md"))()
 
 local Window = Rayfield:CreateWindow({
    Name = "Pedrin Hub",
